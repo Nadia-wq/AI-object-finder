@@ -1,0 +1,33 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+    box-shadow:5px 5px 5px grey;
+}
+.copyrightFooter{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:gray;
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px gray;
+    margin-top:60px;
+    margin-bottom:100px;
+}
+body{
+    background-size:cover;
+}
